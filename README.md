@@ -85,7 +85,7 @@ Before running the project, make sure you have the following dependencies:
 
 To run the script, simply execute it with Python:
 ```bash
-python process_video.py
+python main.py
 ```
 
 The script will process all `.mp4` files in the `raw/` directory, extract and transcribe the audio, clean the transcription, and create a new video with relevant content only.
